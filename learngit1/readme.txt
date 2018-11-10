@@ -3,8 +3,5 @@ Git is a free software distributed under the GPL.
 Git has a mutable idex called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
-<<<<<<< HEAD
-Creating a new branch is qucik & simple.
-=======
-Creating a new branch is qucik AND simple.
->>>>>>> feature1
+Creating a new branch is qucik and simple.
+999
